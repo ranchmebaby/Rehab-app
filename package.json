@@ -1,0 +1,11 @@
+{
+  "name": "footing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evidence-based foot, ankle and lower-limb rehab for runners and cyclists (installable PWA).",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
